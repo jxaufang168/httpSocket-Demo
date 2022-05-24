@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.ServerSocket;
 
 /**
- * @description: RawHttpServer
+ * @description: Socket编程HTTP服务
  * @author: flygo
  * @time: 2022/5/24 10:30
  */
